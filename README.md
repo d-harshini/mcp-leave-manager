@@ -64,11 +64,12 @@ Response: Leave applied successfully. Remaining balance: 19 days.
 
 📚 Planned Improvements
 
-🔗 Connect to a real employee leave database.
+Connect to a real employee leave database.
 
-📊 Support for multiple leave types (sick, vacation, personal).
+Support for multiple leave types (sick, vacation, personal).
 
-📈 Reporting and analytics features.
+Reporting and analytics features.
 
-🌐 Integration with HR platforms.
+Integration with HR platforms.
+
 
