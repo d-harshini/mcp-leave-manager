@@ -1,22 +1,22 @@
 🛠️ MCP Leave Management Server
 
-A beginner-friendly MCP Server built for an HR leave management use case at ATL Technologies.
+A beginner-friendly MCP Server built for an HR leave management use case.
 This project demonstrates how to create an MCP server, connect it with an MCP client (Claude Desktop), and handle employee leave-related operations.
 
 📌 Features
 
-✅ Check Leave Balance – Query remaining leaves for an employee.
+Check Leave Balance – Query remaining leaves for an employee.
 
-✅ Apply for Leave – Submit leave requests with date parsing.
+Apply for Leave – Submit leave requests with date parsing.
 
-✅ View Leave History – Retrieve historical leave data for employees.
+View Leave History – Retrieve historical leave data for employees.
 
-✅ Mock Employee Database – Pre-configured with sample employees (E001, E002).
+Mock Employee Database – Pre-configured with sample employees (E001, E002).
 
-✅ Claude Desktop Integration – Natural language interface for HR managers.
+Claude Desktop Integration – Natural language interface for HR managers.
 
 ⚙️ Architecture
-ATL Employee Database (mock)
+  Employee Database (mock)
         │
    MCP Server (Python)
         │
@@ -26,8 +26,8 @@ HR Manager (Natural Language Queries)
 
 🚀 Getting Started
 1. Clone Repository
-git clone https://github.com/your-username/mcp-leave-management.git
-cd mcp-leave-management
+git clone https://github.com/d-harshini/mcp-leave-manager.git
+cd mcp-leave-manager
 
 2. Install Dependencies
 pip install mcp
@@ -66,7 +66,3 @@ Response: Leave applied successfully. Remaining balance: 19 days.
 📈 Reporting and analytics features.
 
 🌐 Integration with HR platforms.
-
-📝 License
-
-This project is licensed under the MIT License.
