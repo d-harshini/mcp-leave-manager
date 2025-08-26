@@ -20,13 +20,8 @@ Claude Desktop Integration – Natural language interface for HR managers.
 -----
 
 ⚙️ **Architecture**
-  Employee Database (mock)
-        │
-   MCP Server (Python)
-        │
-   Claude Desktop (MCP Client)
-        │
-HR Manager (Natural Language Queries)
+
+  Employee Database (mock) --> MCP Server (Python) --> Claude Desktop (MCP Client) --> HR Manager (Natural Language Queries)
 
 -----
 
@@ -77,6 +72,7 @@ Support for multiple leave types (sick, vacation, personal).
 Reporting and analytics features.
 
 Integration with HR platforms.
+
 
 
 
